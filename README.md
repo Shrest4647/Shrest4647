@@ -31,21 +31,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@sunil" height="30" width="40" /></a>
+<a href="https://dev.to/@shrest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@shrest" height="30" width="40" /></a>
 <a href="https://twitter.com/4647sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4647sunil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@sunil" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sunil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shrest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@sunil" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10908399/sunil-shrest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sunil" height="30" width="40" /></a>
 <a href="https://codesandbox.com/@sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="@sunil" height="30" width="40" /></a>
-<a href="https://kaggle.com/@sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@sunil" height="30" width="40" /></a>
-<a href="https://fb.com/@sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@sunil" height="30" width="40" /></a>
-<a href="https://instagram.com/@sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sunil" height="30" width="40" /></a>
-<a href="https://dribbble.com/@sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="@sunil" height="30" width="40" /></a>
-<a href="https://hashnode.com/@sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sunil" height="30" width="40" /></a>
-<a href="https://medium.com/@sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sunil" height="30" width="40" /></a>
+<a href="https://kaggle.com/shrest4647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@sunil" height="30" width="40" /></a>
+<a href="https://fb.com/shrest.sunil.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@sunil" height="30" width="40" /></a>
+<a href="https://hashnode.com/@shrest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shrest" height="30" width="40" /></a>
+<a href="https://medium.com/@shrest464760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shrest464760" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sunil" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sunil" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@sunil" height="30" width="40" /></a>
-<a href="/mysite.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="mysite.com/rss.xml" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/074bct544_sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sunil" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shrest4647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@sunil" height="30" width="40" /></a>
+<a href="https://ailores.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="mysite.com/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
