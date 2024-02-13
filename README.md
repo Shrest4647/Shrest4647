@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects on AI and Web**
 
-- 👨‍💻 All of my projects are available at [https://sunilshrestha.me/portfolio](https://sunilshrestha.me/portfolio)
+- 👨‍💻 All of my projects are available at [https://shrest4647.github.io//portfolio](https://shrest4647.github.io//portfolio)
 
 - 📝 I regularly write articles on [https://ailores.com](https://ailores.com)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **074bct544.sunil@pcampus.edu.np**
 
-- 📄 Know about my experiences [https://sunilshrestha.me/portfolio](https://sunilshrestha.me/portfolio)
+- 📄 Know about my experiences [https://shrest4647.github.io//portfolio](https://shrest4647.github.io//portfolio)
 
 - ⚡ Fun fact **I like Music, Travelling and Photography**
 
